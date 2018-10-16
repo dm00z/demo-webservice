@@ -1,0 +1,9 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Alice",
+      "age": 25,
+      "mobileNum": "355664879"
+    }
+}
