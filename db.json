@@ -1,6 +1,24 @@
 {
-  "id": 1,
-  "name": "Alice",
-  "age": 25,
-  "mobileNum": "355664879"
+  "users":[
+    {
+      "AccountNo": "8888123456789",
+      "AccountStatus": "A",
+      "Csn": "1101",
+      "DateOfBirth": "1998-10-12T10:45:50.2475474+07:00",
+      "RedeemablePoolUnits": "2000",
+      "FullName": "Phạm Quang Hương",
+      "TotalPoolUnits": "2100",
+      "UserIdentity": "0123483756"
+    },
+    {
+      "AccountNo": "888823242345",
+      "AccountStatus": "A",
+      "Csn": "3556",
+      "DateOfBirth": "1978-12-12T10:45:50.2475474+07:00",
+      "RedeemablePoolUnits": "5000",
+      "FullName": "Phan Mỹ Hằng",
+      "TotalPoolUnits": "4532",
+      "UserIdentity": "0124383756"
+    }    
+  ]
 }
